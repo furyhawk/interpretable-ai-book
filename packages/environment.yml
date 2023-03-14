@@ -4,11 +4,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - _anaconda_depends=2019.03=py37_0
   - alabaster=0.7.12=py37_0
-  - anaconda=custom=py37_1
-  - anaconda-client=1.7.2=py37_0
-  - anaconda-project=0.8.4=py_0
   - appnope=0.1.0=py37_0
   - appscript=1.1.0=py37h1de35cc_0
   - asn1crypto=1.2.0=py37_0
@@ -356,11 +352,6 @@ dependencies:
     - srsly==1.0.2
     - svglib==1.0.0
     - tabulate==0.8.7
-    - tensorboard==2.5.0
-    - tensorboard-data-server==0.6.1
-    - tensorboard-plugin-wit==1.8.0
-    - tensorflow==2.5.0
-    - tensorflow-estimator==2.5.0
     - termcolor==1.1.0
     - thinc==7.4.0
     - threadpoolctl==2.1.0
@@ -376,5 +367,5 @@ dependencies:
     - wheel==0.36.2
     - wordcloud==1.8.1
     - wrapt==1.12.1
-prefix: /Users/ajay/opt/anaconda3/envs/interpretable-ai
+
 
